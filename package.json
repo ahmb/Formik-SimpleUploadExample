@@ -1,0 +1,22 @@
+{
+  "name": "formik-simple-upload-example-forked",
+  "version": "0.0.0",
+  "description": "A simple one file upload using Formik",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "yup": "0.23.0",
+    "react-dom": "16.0.0",
+    "react": "16.0.0",
+    "formik": "0.10.5"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
